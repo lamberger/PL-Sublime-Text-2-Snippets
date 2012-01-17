@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+<?php
+/*
+Plugin Name: ${1:Plugin Name}
+Plugin URI: ${2:https://github.com/lamberger}
+Description: ${3:Description}
+Version: ${4:1.0}
+Author: ${5:Patrik Lamberger}   
+Author URI: ${2:https://github.com/lamberger} 
+License: GNU General Public License, version 2, GPL2
+*/  
+ 
+/* 
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pluginStart</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
